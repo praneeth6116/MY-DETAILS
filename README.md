@@ -1,4 +1,4 @@
-# MY-DETAILS
+# My-Details
 A BASIC ONE
 Hello world
 I am praneeth and I am from hyderabad
